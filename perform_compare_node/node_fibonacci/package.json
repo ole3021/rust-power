@@ -1,0 +1,12 @@
+{
+  "name": "node_fibonacci",
+  "version": "1.0.0",
+  "description": "nodejs, fibonacci",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ole3021 (Oliver.W)",
+  "license": "MIT"
+}
